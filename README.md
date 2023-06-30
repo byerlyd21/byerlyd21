@@ -1,6 +1,4 @@
 # 👋 Hi, I’m Dallin!
-
-# About Me
 - I am a computer science student at Utah State University who loves the outdoors, good books, and learning new things! In my free time,
   I like to snowboard, mountian bike, swim, and go to the gym. I also love playing intermural sports at Utah State like flag football, softball
   and volleyball. I also enjoy beating my girlfriend in pickelball. 
