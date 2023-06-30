@@ -1,7 +1,8 @@
 # 👋 Hi, I’m Dallin!
 - I am a computer science student at Utah State University who loves the outdoors, good books, and learning new things! In my free time,
   I like to snowboard, mountian bike, swim, and go to the gym. I also love playing intermural sports at Utah State like flag football, softball
-  and volleyball. I also enjoy beating my girlfriend in pickelball. 
+  and volleyball. I also enjoy beating my girlfriend in pickelball. I am a intern at Eagle Rock Properties and a collaborator for the brand new AI
+  Buisness Integration Club at Utah State as well.
 
 # Interests 
 - I’m interested in learning more about AI/ML, fintech, as well as improving and expanding my technical skills. Although I am always capivated
@@ -21,7 +22,7 @@
 # Contact Me!
 - 💞️ I’m looking to collaborate on anything and everything! I want all the experience I can get! 
 - 📫 How to reach me: Shoot me an email at dallinbyerly@gmail.com, I love meeting new people!
-I am a intern at Eagle Rock Properties and collaborator for the brand new AI Buisness Integration Club at Utah State.
+
 <!---
 byerlyd21/byerlyd21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
