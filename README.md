@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Dallin!
 - I am a computer science student at Utah State University who loves the outdoors, good books, and learning new things! In my free time,
-  I like to snowboard, mountian bike, swim, and go to the gym. I also love playing intermural sports at Utah State like flag football, softball
+  I like to snowboard, mountian bike, swim, and go to the gym. I love playing intermural sports at Utah State like flag football, softball
   and volleyball. I also enjoy beating my girlfriend in pickelball. My favorite programming language is Python, and I enjoy solving challenging
   puzzels and riddels. I am a intern at Eagle Rock Properties and a collaborator for the brand new AI Buisness Integration Club at Utah State as well.
 
